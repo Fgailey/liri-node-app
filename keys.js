@@ -11,12 +11,8 @@ class Keys {
         id: process.env.SPOTIFY_ID,
         secret: process.env.SPOTIFY_SECRET,
     }
-    this.band = {
-        id: process.env.BAND_ID,
-    }
-    this.omdb = {
-        id: process.env.OMDB_ID
-    }
+    this.band = process.env.BAND_ID;
+    this.omdb = process.env.OMDB_ID;
 }
 }
 
