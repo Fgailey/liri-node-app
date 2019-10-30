@@ -51,10 +51,6 @@ let findConcert = function(param){
                     console.log(err);
                   }
                 
-                  // If no error is experienced, we'll log the phrase "Content Added" to our node console.
-                //   else {
-                //     console.log("Content Added!");
-                //   }
             })
         }
     })
@@ -95,16 +91,57 @@ let findSong = function(param){
 };
 
 let findMovie = function(param){
-    console.log('movie')
-    axios.get(`https://www.omdbapi.com/?apikey=${masterKey.omdb}&t=jaws`)
+    //added cause switch wasnt working
+    if(!param){
+        param = 'jaws'
+    }
+    axios.get(`https://www.omdbapi.com/?apikey=${masterKey.omdb}&t=${param}`)
     .then(function(response){
-        console.log(response.data.Title)
         let info = response.data
+
+        let title = info.Title
+        let year = info.Year
+        let rating = info.imdbRating
+        let rottenReview = info.Ratings[1].Value
+        let produced = info.Country
+        let plot = info.Plot
+        let actors = info.actors
+
+        let moviePrint = `
+        *-*-*-*-*-*-*-*-*-*-*-*
+        Title: ${title}
+        Year: ${year}
+        IMDB Rating: ${rating}
+        Rotten Tomatoes: ${rottenReview}
+        Country Produced: ${produced}
+        Plot Desc: ${plot}
+        Actors: ${actors}
+        -*-*-*-*-*-*-*-*-*-*-*-*`
+        console.log(moviePrint)
+        fs.appendFile("log.txt", `${search}, ${param}, ${moviePrint}`, function(err){
+            if (err) {
+                console.log(err);
+              }
+            
+        })
     })
 }
 
-let buckWild = function(param){
+let buckWild = function(){
     console.log('wild')
+    fs.readFile('random.txt',"utf8", function(error, data) {
+
+        if (error) {
+          return console.log(error);
+        }
+        var dataArr = data.split(",");
+      
+        console.log(dataArr);
+        param = dataArr[1]
+
+        findSong(param);
+        
+    });
 }
 
 // ==================END FUNCTIONS============================
@@ -124,9 +161,6 @@ switch (search){
         findSong(param);
     break;
     case 'movie-this':
-        if(!param){
-            param = 'Jaws'
-        }
         console.log('a movie it be')
         findMovie();
     break;
