@@ -74,7 +74,8 @@ let findSong = function(param){
         Song Name: ${song}
         Preview Link: ${preview}
         Album: ${album}
-        -|-|-|-|-|-|-|-|-|-|-|-|-`
+        -|-|-|-|-|-|-|-|-|-|-|-|-
+        `
         console.log(spotifyPrint)
 
         //Appends to log.txt
@@ -116,7 +117,8 @@ let findMovie = function(param){
         Country Produced: ${produced}
         Plot Desc: ${plot}
         Actors: ${actors}
-        -*-*-*-*-*-*-*-*-*-*-*-*`
+        -*-*-*-*-*-*-*-*-*-*-*-*
+        `
         console.log(moviePrint)
         fs.appendFile("log.txt", `${search}, ${param}, ${moviePrint}`, function(err){
             if (err) {
