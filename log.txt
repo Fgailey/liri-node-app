@@ -1,61 +1,13 @@
-concert-this, The Knocks, 
-            ------------------------------
-            Venue Name: Bluebird Nightclub
-            Venue Address: Bloomington IN
-            Venue Date: 10/30/2019
-            ===============================
-            concert-this, The Knocks, 
-            ------------------------------
-            Venue Name: Royal Oak Music Theatre
-            Venue Address: Royal Oak MI
-            Venue Date: 10/31/2019
-            ===============================
-            concert-this, The Knocks, 
-            ------------------------------
-            Venue Name: Stage AE
-            Venue Address: Pittsburgh PA
-            Venue Date: 11/01/2019
-            ===============================
-            concert-this, The Knocks, 
-            ------------------------------
-            Venue Name: Agora Theater & Ballroom
-            Venue Address: Cleveland OH
-            Venue Date: 11/02/2019
-            ===============================
-            concert-this, The Knocks, 
-            ------------------------------
-            Venue Name: Old National Centre
-            Venue Address: Indianapolis IN
-            Venue Date: 11/05/2019
-            ===============================
-            concert-this, The Knocks, 
-            ------------------------------
-            Venue Name: Bogart's
-            Venue Address: Cincinnati OH
-            Venue Date: 11/06/2019
-            ===============================
-            concert-this, The Knocks, 
-            ------------------------------
-            Venue Name: Mercury Ballroom
-            Venue Address: Louisville KY
-            Venue Date: 11/07/2019
-            ===============================
-            concert-this, The Knocks, 
-            ------------------------------
-            Venue Name: Express Live!
-            Venue Address: Columbus OH
-            Venue Date: 11/09/2019
-            ===============================
-            concert-this, The Knocks, 
-            ------------------------------
-            Venue Name: The Norva
-            Venue Address: Norfolk VA
-            Venue Date: 11/12/2019
-            ===============================
-            concert-this, The Knocks, 
-            ------------------------------
-            Venue Name: The National
-            Venue Address: Richmond VA
-            Venue Date: 11/13/2019
-            ===============================
-            
+spotify-this-song, The Sign, 
+        -/-/-/-/-/-/-/-/-/-/-/-/-
+        Artist: Aerosmith
+        Song Name: The Sign
+        Preview Link: https://p.scdn.co/mp3-preview/f744fafea7f807dd79503249f4238a21393daf8f?cid=ee0ed26249104f0385185e0ca1a9b30e
+        Album: Toys In The Attic
+        -|-|-|-|-|-|-|-|-|-|-|-|-spotify-this-song, The Sign, 
+        -/-/-/-/-/-/-/-/-/-/-/-/-
+        Artist: Harry Styles
+        Song Name: The Sign
+        Preview Link: https://p.scdn.co/mp3-preview/af237206f611b722f48620ece049aff3b8650e77?cid=ee0ed26249104f0385185e0ca1a9b30e
+        Album: Harry Styles
+        -|-|-|-|-|-|-|-|-|-|-|-|-

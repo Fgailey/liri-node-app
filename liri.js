@@ -62,17 +62,45 @@ let findConcert = function(param){
 
 let findSong = function(param){
     
-    spotify.search({ type: 'track', query: param }, function(err, data) {
-        console.log(param)
-        if (err) {
-          return console.log('Error occurred: ' + err);
-        }
-        console.log(data.items[1]); 
-    });
+    spotify.search({ type: 'track', query: param })
+        .then(function(response) {
+        // console.log(response.tracks.items[0]);
+        let info = response.tracks.items[0]
+
+        let artists = info.album.artists[0].name
+        let song = param
+        let preview = info.preview_url
+        let album = info.album.name
+
+        let spotifyPrint = `
+        -/-/-/-/-/-/-/-/-/-/-/-/-
+        Artist: ${artists}
+        Song Name: ${song}
+        Preview Link: ${preview}
+        Album: ${album}
+        -|-|-|-|-|-|-|-|-|-|-|-|-`
+        console.log(spotifyPrint)
+
+        //Appends to log.txt
+        fs.appendFile("log.txt", `${search}, ${param}, ${spotifyPrint}`, function(err){
+            if (err) {
+                console.log(err);
+              }
+            
+        })
+    })
+        .catch(function(err) {
+        console.log(err);
+        });
 };
 
 let findMovie = function(param){
     console.log('movie')
+    axios.get(`https://www.omdbapi.com/?apikey=${masterKey.omdb}&t=jaws`)
+    .then(function(response){
+        console.log(response.data.Title)
+        let info = response.data
+    })
 }
 
 let buckWild = function(param){
@@ -90,7 +118,7 @@ switch (search){
     break;
     case 'spotify-this-song':
         if(!param){
-            param = 'Uneventful Days'
+            param = 'The Sign'
         }
         console.log('spotify yea')
         findSong(param);
