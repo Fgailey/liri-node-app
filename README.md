@@ -15,12 +15,16 @@ This App is a basic request and response to several different entertainment rela
  ## Instructions
 To run the app you must first locate and navigate to the correct file path containing the files.  
 Then use a node command to call a specific function  
+
 For finding a concert the command would look something like   
 * node ./liri.js concert-this 'artist name here'    
+
 For finding info on a song the command would look like  
 * node ./liri.js spotify-this-song 'song name here'  
+
 For finding info on a movie the command would look like  
 * node ./liri.js movie-this 'movie name here'  
+
 For making a call to read the random.txt file and use the saved commands you would use the command  
 * node ./liri.js do-what-it-says
 
