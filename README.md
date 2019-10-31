@@ -2,14 +2,15 @@
 
 **************************
 ## Basic Function  
-This App is a basic request and response to several different entertainment related API's. It logs the responses and has a basic read usage.  
+This App is a basic request and response to several different entertainment related API's. It logs the responses and has a basic read usage.  This app calls on one of three API's (Spotify, Bands in the town or OMDB). Return basic data on the paramater searched for.
 
 ## App Parts
-The app is organized in 4 parts  
-    * part 1: hidden files, used to hide the API ID's and secrets  
-    * part 2: Key reader, creates a class that calls the hidden env file and allows the reader access  
-    * part 3: The main file is liri.js this is where the console comands are run through and all peices are linked here.  
-    * part 4: There are two text files, one to record the information that is called and another which allows a basic read file  
+
+* 1: Hidden files, used to hide the API ID's and secrets  
+* 2: Key reader, creates a class that calls the hidden env file and allows the reader access  
+* 3: Liri.js, is the main file where the console comands are run through and where all components of the app are linked.  
+* 4: API's, there are 3 apis which are used for a very basic search paramater.
+* 5: Text files, these text files can be used to read or write information. There is a log file to store called info and a random file that is read for one of the functions.
   
  ## Instructions
 To run the app you must first locate and navigate to the correct file path containing the files.  
