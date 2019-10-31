@@ -14,7 +14,7 @@ This App is a basic request and response to several different entertainment rela
   
  ## Instructions
 To run the app you must first locate and navigate to the correct file path containing the files.  
-Then use a node command to call a specific function
+Then use a node command to call a specific function  
 For finding a concert the command would look something like   
 * node ./liri.js concert-this 'artist name here'    
 For finding info on a song the command would look like  
