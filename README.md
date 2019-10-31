@@ -20,11 +20,8 @@ For finding info on a movie the command would look like
 For making a call to read the random.txt file and use the saved commands you would use the command  
     -node ./liri.js do-what-it-says
 
-Youtube Link  
-https://youtu.be/cEWLzA3LyCA 
+Youtube Link: https://youtu.be/cEWLzA3LyCA 
 
-Github Link
-https://github.com/Fgailey
+Github Link: https://github.com/Fgailey
 
-LinkedIn
-https://www.linkedin.com/in/foster-gailey-391292165/
+LinkedIn: https://www.linkedin.com/in/foster-gailey-391292165/
