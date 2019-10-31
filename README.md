@@ -22,3 +22,9 @@ For making a call to read the random.txt file and use the saved commands you wou
 
 Youtube Link  
 https://youtu.be/cEWLzA3LyCA 
+
+Github Link
+https://github.com/Fgailey
+
+LinkedIn
+https://www.linkedin.com/in/foster-gailey-391292165/
