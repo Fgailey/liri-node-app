@@ -30,3 +30,5 @@ For making a call to read the random.txt file and use the saved commands you wou
 * [Github Link](https://github.com/Fgailey)
 
 * [LinkedIn](https://www.linkedin.com/in/foster-gailey-391292165/)
+
+* [Portfolio](https://fgailey.github.io/Portfolio-2/)
