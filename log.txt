@@ -85,4 +85,165 @@ spotify-this-song, The Sign,
         Song Name: "I Want it That Way"
         Preview Link: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=ee0ed26249104f0385185e0ca1a9b30e
         Album: The Hits--Chapter One
+        -|-|-|-|-|-|-|-|-|-|-|-|-concert-this, the knocks, 
+            ------------------------------
+            Venue Name: Stage AE
+            Venue Address: Pittsburgh PA
+            Venue Date: 11/01/2019
+            ===============================
+            concert-this, the knocks, 
+            ------------------------------
+            Venue Name: Royal Oak Music Theatre
+            Venue Address: Royal Oak MI
+            Venue Date: 10/31/2019
+            ===============================
+            concert-this, the knocks, 
+            ------------------------------
+            Venue Name: Old National Centre
+            Venue Address: Indianapolis IN
+            Venue Date: 11/05/2019
+            ===============================
+            concert-this, the knocks, 
+            ------------------------------
+            Venue Name: Mercury Ballroom
+            Venue Address: Louisville KY
+            Venue Date: 11/07/2019
+            ===============================
+            concert-this, the knocks, 
+            ------------------------------
+            Venue Name: Express Live!
+            Venue Address: Columbus OH
+            Venue Date: 11/09/2019
+            ===============================
+            concert-this, the knocks, 
+            ------------------------------
+            Venue Name: The National
+            Venue Address: Richmond VA
+            Venue Date: 11/13/2019
+            ===============================
+            concert-this, the knocks, 
+            ------------------------------
+            Venue Name: Marathon Music Works
+            Venue Address: Nashville TN
+            Venue Date: 11/14/2019
+            ===============================
+            concert-this, the knocks, 
+            ------------------------------
+            Venue Name: Agora Theater & Ballroom
+            Venue Address: Cleveland OH
+            Venue Date: 11/02/2019
+            ===============================
+            concert-this, the knocks, 
+            ------------------------------
+            Venue Name: Bogart's
+            Venue Address: Cincinnati OH
+            Venue Date: 11/06/2019
+            ===============================
+            concert-this, the knocks, 
+            ------------------------------
+            Venue Name: The Norva
+            Venue Address: Norfolk VA
+            Venue Date: 11/12/2019
+            ===============================
+            spotify-this-song, walk this way, 
+        -/-/-/-/-/-/-/-/-/-/-/-/-
+        Artist: Aerosmith
+        Song Name: walk this way
+        Preview Link: https://p.scdn.co/mp3-preview/f744fafea7f807dd79503249f4238a21393daf8f?cid=ee0ed26249104f0385185e0ca1a9b30e
+        Album: Toys In The Attic
         -|-|-|-|-|-|-|-|-|-|-|-|-
+        movie-this, jaws, 
+        *-*-*-*-*-*-*-*-*-*-*-*
+        Title: Jaws
+        Year: 1975
+        IMDB Rating: 8.0
+        Rotten Tomatoes: 98%
+        Country Produced: USA
+        Plot Desc: When a killer shark unleashes chaos on a beach community, it's up to a local sheriff, a marine biologist, and an old seafarer to hunt the beast down.
+        Actors: undefined
+        -*-*-*-*-*-*-*-*-*-*-*-*
+        do-what-it-says, "I Want it That Way", 
+        -/-/-/-/-/-/-/-/-/-/-/-/-
+        Artist: Backstreet Boys
+        Song Name: "I Want it That Way"
+        Preview Link: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=ee0ed26249104f0385185e0ca1a9b30e
+        Album: The Hits--Chapter One
+        -|-|-|-|-|-|-|-|-|-|-|-|-
+        concert-this, the knocks, 
+            ------------------------------
+            Venue Name: Royal Oak Music Theatre
+            Venue Address: Royal Oak MI
+            Venue Date: 10/31/2019
+            ===============================
+            concert-this, the knocks, 
+            ------------------------------
+            Venue Name: Stage AE
+            Venue Address: Pittsburgh PA
+            Venue Date: 11/01/2019
+            ===============================
+            concert-this, the knocks, 
+            ------------------------------
+            Venue Name: Agora Theater & Ballroom
+            Venue Address: Cleveland OH
+            Venue Date: 11/02/2019
+            ===============================
+            concert-this, the knocks, 
+            ------------------------------
+            Venue Name: Old National Centre
+            Venue Address: Indianapolis IN
+            Venue Date: 11/05/2019
+            ===============================
+            concert-this, the knocks, 
+            ------------------------------
+            Venue Name: Bogart's
+            Venue Address: Cincinnati OH
+            Venue Date: 11/06/2019
+            ===============================
+            concert-this, the knocks, 
+            ------------------------------
+            Venue Name: Mercury Ballroom
+            Venue Address: Louisville KY
+            Venue Date: 11/07/2019
+            ===============================
+            concert-this, the knocks, 
+            ------------------------------
+            Venue Name: The National
+            Venue Address: Richmond VA
+            Venue Date: 11/13/2019
+            ===============================
+            concert-this, the knocks, 
+            ------------------------------
+            Venue Name: Express Live!
+            Venue Address: Columbus OH
+            Venue Date: 11/09/2019
+            ===============================
+            concert-this, the knocks, 
+            ------------------------------
+            Venue Name: The Norva
+            Venue Address: Norfolk VA
+            Venue Date: 11/12/2019
+            ===============================
+            concert-this, the knocks, 
+            ------------------------------
+            Venue Name: Marathon Music Works
+            Venue Address: Nashville TN
+            Venue Date: 11/14/2019
+            ===============================
+            spotify-this-song, walk this way, 
+        -/-/-/-/-/-/-/-/-/-/-/-/-
+        Artist: Aerosmith
+        Song Name: walk this way
+        Preview Link: https://p.scdn.co/mp3-preview/f744fafea7f807dd79503249f4238a21393daf8f?cid=ee0ed26249104f0385185e0ca1a9b30e
+        Album: Toys In The Attic
+        -|-|-|-|-|-|-|-|-|-|-|-|-
+        movie-this, jaws, 
+        *-*-*-*-*-*-*-*-*-*-*-*
+        Title: Jaws
+        Year: 1975
+        IMDB Rating: 8.0
+        Rotten Tomatoes: 98%
+        Country Produced: USA
+        Plot Desc: When a killer shark unleashes chaos on a beach community, it's up to a local sheriff, a marine biologist, and an old seafarer to hunt the beast down.
+        Actors: Roy Scheider, Robert Shaw, Richard Dreyfuss, Lorraine Gary
+        -*-*-*-*-*-*-*-*-*-*-*-*
+        

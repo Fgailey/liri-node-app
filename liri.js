@@ -106,7 +106,7 @@ let findMovie = function(param){
         let rottenReview = info.Ratings[1].Value
         let produced = info.Country
         let plot = info.Plot
-        let actors = info.actors
+        let actors = info.Actors
 
         let moviePrint = `
         *-*-*-*-*-*-*-*-*-*-*-*
